@@ -114,12 +114,8 @@ blog-springboot
 | RabbitMQ      | 3.8.5  |
 
 ## 作品截图
-
-## 
 ![1709448880479](https://github.com/iAmAnyus/blog/assets/130461533/9864cf07-2bef-43cc-badf-85904273f1b4)
 ![1709448927056](https://github.com/iAmAnyus/blog/assets/130461533/4b38f254-8b49-40f5-a151-94d0fccf0398)
-## 
-
 ##
 
 
